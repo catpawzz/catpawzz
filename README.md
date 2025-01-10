@@ -6,7 +6,7 @@ I am **Catpawz** working on **On my own projects and McMilford.eu plus some othe
 
 If you need any code for development projects please don't hesitate to commission me [here](https://ko-fi.com/french_femboi/commissions)! I'm just a small developer, so any small amounts of money help me fund my dreams :")
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7) ![](https://komarev.com/ghpvc/?username=catpawzz)
 
 ---
 
