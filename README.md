@@ -1,6 +1,6 @@
 ![Catpawzzzz](https://cd.catpawz.net/03-CATPAWZ/03.02%20-%20OTHER/banner-newnew.png)
 
-## Heya :] I'm Catpawz! 🎉
+## Haii there! :3 I'm Catpawz! 🎉
 
 I am **Catpawz** working on **On my own projects and McMilford.eu plus some other random projects and stuff**. I like coding in PHP and CSS and DART. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc, but also all the results from my code work, like beautiful and usable UI's and stuff like that :3 oh yeah let's not forget I kept repairing stuff when I was a kid :P
 
