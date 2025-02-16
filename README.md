@@ -26,3 +26,4 @@ If you need any code for development projects please don't hesitate to commissio
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/852891077097947156)](https://discord.com/users/852891077097947156)
 
+mrow mrow mrow whoah you actually did look at my profile, thanks TwT
