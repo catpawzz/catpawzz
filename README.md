@@ -1,4 +1,5 @@
-![Catpawzzzz](https://cd.catpawz.net/03-CATPAWZ/03.02%20-%20OTHER/banner-newnew.png)
+![gh-bn2](https://github.com/user-attachments/assets/11ebebd6-d0d0-406d-beae-e074497385ab)
+
 
 ## Haii there! :3 I'm Catpawz! 🎉
 
