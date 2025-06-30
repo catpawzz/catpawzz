@@ -3,7 +3,7 @@
 
 ## Haii there! :3 I'm Catpawz! 🎉
 
-I am **Catpawz** working on **On my own projects and McMilford.eu plus some other random projects and stuff**. I like coding in PHP and CSS and DART. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc, but also all the results from my code work, like beautiful and usable UI's and stuff like that :3 oh yeah let's not forget I kept repairing stuff when I was a kid :P
+I am **Catpawz** working on **On my Astrakit and McMilford.eu plus some other random projects of mine and stuff**. I like coding in PHP and CSS and DART. I am still kind of a beginner and sometimes I can be lazy... Anyways, I'm also **learning to work with servers in datacenters**, and coding android apps. The only thing motivating me to keep on working is my cat, because she always sleeps near my warm pc, but also all the results from my code work, like beautiful and usable UI's and stuff like that :3 oh yeah let's not forget I kept repairing stuff when I was a kid :P
 
 If you need any code for development projects please don't hesitate to commission me [here](https://ko-fi.com/catpawzzz/commissions)! I'm just a small developer, so any small amounts of money help me fund my dreams of owning/running a datacenter :")
 
