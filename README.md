@@ -7,7 +7,7 @@ I am **Catpawz** working on **On my Astrakit and McMilford.eu plus some other ra
 
 If you need any code for development projects please don't hesitate to commission me [here](https://ko-fi.com/catpawzzz/commissions)! I'm just a small developer, so any small amounts of money help me fund my dreams of owning/running a datacenter :")
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7) ![](https://komarev.com/ghpvc/?username=catpawzz) ![](https://img.shields.io/endpoint?url=https://wakapi.srv1.catpawz.net/api/compat/shields/v1/catpawz/interval:all_time&label=All%20time&color=blue) ![](https://wakapi.srv1.catpawz.net/api/badge/catpawz/interval:today?label=today) ![](https://track.catpawz.net/api/badge/catpawz/interval:30_days?label=last%2030d)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7) ![](https://komarev.com/ghpvc/?username=catpawzz) ![](https://img.shields.io/endpoint?url=https://track.catpawz.net/api/compat/shields/v1/catpawz/interval:all_time&label=All%20time&color=blue) ![](https://track.catpawz.net/api/badge/catpawz/interval:today?label=today) ![](https://track.catpawz.net/api/badge/catpawz/interval:30_days?label=last%2030d)
 
 ---
 
