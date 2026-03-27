@@ -9,7 +9,7 @@ If you need any code for development projects please don't hesitate to commissio
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2FINT7) ![](https://komarev.com/ghpvc/?username=catpawzz) ![](https://img.shields.io/endpoint?url=https://track.catpawz.net/api/compat/shields/v1/catpawz/interval:all_time&label=All%20time&color=blue) ![](https://track.catpawz.net/api/badge/catpawz/interval:today?label=today) ![](https://track.catpawz.net/api/badge/catpawz/interval:30_days?label=last%2030d)
 
-![](https://libre.fm/user/sleepifemboi/now)
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/sleepifemboi/latest-song?format=shields.io)](https://www.last.fm/user/sleepifemboi)
 
 ---
 
