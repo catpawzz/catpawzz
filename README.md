@@ -19,10 +19,8 @@ If you need any code for development projects please don't hesitate to commissio
 - 🌐 Websites: 
   **[Portfolio](https://catpawz.net/portfolio), [Projects](https://catpawz.net/projects)**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="catpawzz's GitHub Stats" />
-  
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=catpawzz&theme=jolly&hide_border=true)](https://git.io/streak-stats)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catpawzz&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="catpawzz's GitHub Stats" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=catpawzz&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=catpawzz&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=material-palenight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=catpawzz&layout=donut&langs_count=5&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=catpawzz&layout=donut&langs_count=5&theme=material-palenight)
 
 whoah you actually did look at my profile, thanks TwT
